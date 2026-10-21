@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installation and Project Structure
 
 ## 1. Installation and Setup
@@ -85,3 +86,6 @@ Contains error-handling and form-validation utilities.
 - `pnpm-lock.yaml` — Records dependency versions for consistent installations.
 - `.gitmodules` — Defines the Git submodules used by the project.
 - `README.md` — Documents installation, setup, and project architecture.
+=======
+# refraction
+>>>>>>> origin/main
